@@ -35,7 +35,7 @@ My goal is to create products that don't just work — they convert, impress, an
 
 ## 📫 Contact
 📧 azanali03056@gmail.com  
-🌐 LinkedIn: (add your link)
+🌐 LinkedIn: (www.linkedin.com/in/azan-ali-2409543ba)
 
 ---
 
