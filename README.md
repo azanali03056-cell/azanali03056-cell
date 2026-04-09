@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👑 Azan Ali – Elite Web Developer
 
-<!--
-**azanali03056-cell/azanali03056-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building premium, high-converting web experiences  
+💻 Full Stack Developer | Next.js | React | Node.js  
+🎯 Focus: Performance, UI/UX, and real-world impact  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I design and develop modern, scalable, and visually stunning web applications.  
+My goal is to create products that don't just work — they convert, impress, and scale.
+
+---
+
+## ⚡ Tech Stack
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express
+- Tools: Git, Firebase, Vercel
+
+---
+
+## 🏆 Featured Projects
+🔹 Portfolio Website – Premium personal brand  
+🔹 E-commerce Platform – Conversion-focused UI  
+🔹 AI Tools – Automation & productivity
+
+---
+
+## 📈 Goals
+- Build SaaS products  
+- Work with international clients  
+- Create high-value digital assets  
+
+---
+
+## 📫 Contact
+📧 azanali03056@gmail.com  
+🌐 LinkedIn: (add your link)
+
+---
+
+⭐ "I don’t just build websites — I build digital experiences."
